@@ -4,7 +4,7 @@
 .text {
     margin-top: 200px;
 }
-h1 {
+h1, h3 {
     margin: 50px 0;
     text-align: center;
 }
@@ -13,6 +13,7 @@ h1 {
      padding-top: 50px;
  }
  body {
-     background-color: #fff011;
+     background-color: #fff011
+     ;
  } 
  
