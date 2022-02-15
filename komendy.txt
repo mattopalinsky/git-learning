@@ -1,8 +1,2 @@
-{
-  "elements": [
-    "html5",
-    "my-npm-package",
-    "./file",
-    { ... }
-  ],
-}
+npm install -g html-validate
+html-validate *.html
